@@ -1,4 +1,4 @@
-# welcome to my github!
+![A banner that has "Manong" scribbled in an animation. ](github_banner.gif)
 
 
 <!--
