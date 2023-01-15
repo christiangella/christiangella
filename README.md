@@ -6,6 +6,11 @@ Hello! My name is **Manong Chris** (they/he) and I'm a front-end web developer, 
 - :herb: **Working** on a small-scale idle game.
 - :sparkles: **Connect** with me on [LinkedIn](https://www.linkedin.com/in/christian-gella-293539a5/) or by [email](mailto:christian.gella@gmail.com).
 
+## 𝐑𝐄𝐂𝐄𝐍𝐓 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
+
+[![Pixel-art of the application logo, "Wallet Watchdog".](wwd_icon_pixel.png)](https://github.com/christiangella/wallet-watchdog)
+
+
 ## 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
