@@ -8,6 +8,7 @@ Hello! My name is **Manong Chris** (they/he) and I'm a front-end web developer, 
 
 ## 𝐑𝐄𝐂𝐄𝐍𝐓 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
 
+[![A stamp from the application, "Craft Notes".](cn_icon_nonpixel.png)](https://github.com/christiangella/craft-notes)
 [![Pixel-art of the application logo, "Wallet Watchdog".](wwd_icon_pixel.png)](https://github.com/christiangella/wallet-watchdog)
 
 
