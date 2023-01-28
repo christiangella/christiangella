@@ -3,9 +3,9 @@
 Hello! My name is **Manong Chris** (they/he) and I'm a front-end web developer, game modder, and digital illustrator! I bring a unique mix of skills to any project or team — everything in-between my background in Operations and Data Management to my training in anthropology and archivist scholar methodologies.
 
 -	:potted_plant: **Learning**  React, C++, and Unity.
-- :herb: **Working** on a small-scale idle game.
+- :herb: **Working** on a small-scale idle game and practicing Blender.
 - :memo: **Glance** at my [writing samples](https://gist.github.com/christiangella) about code.
-- :sparkles: **Connect** with me on [LinkedIn](https://www.linkedin.com/in/christian-gella-293539a5/) or by [Email](mailto:christian.gella@gmail.com).
+- :sparkles: **Connect** with me on [LinkedIn](https://www.linkedin.com/in/christian-gella-293539a5/) or by [email](mailto:christian.gella@gmail.com).
 
 ## 𝐑𝐄𝐂𝐄𝐍𝐓 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
 
