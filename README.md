@@ -2,7 +2,7 @@
 # 𝐀 𝐍𝐄𝐖 𝐆𝐈𝐓𝐇𝐔𝐁 𝐔𝐒𝐄𝐑 𝐀𝐏𝐏𝐑𝐎𝐀𝐂𝐇𝐄𝐒
 Hello! My name is **Manong Chris** (they/he) and I'm a front-end web developer, game modder, and digital illustrator! I bring a unique mix of skills to any project or team — everything in-between my background in Operations and Data Management to my training in anthropology and archivist scholar methodologies.
 
--	:potted_plant: **Learning**  React and Three.js.
+-	:potted_plant: **Learning**  React, Three.js, and Blender.
 - :herb: **Working** on a small-scale idle game.
 - :memo: **Glance** at my [writing samples](https://gist.github.com/christiangella) about code.
 - :sparkles: **Connect** with me on [LinkedIn](https://www.linkedin.com/in/christian-gella-293539a5/) or by [email](mailto:christian.gella@gmail.com).
@@ -35,7 +35,6 @@ Hello! My name is **Manong Chris** (they/he) and I'm a front-end web developer, 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
