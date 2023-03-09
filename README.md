@@ -12,6 +12,7 @@ Hello! My name is **Manong Chris** (they/he) and I'm a front-end web developer, 
 
 [![A stamp from the application, "Craft Notes".](cn_icon_nonpixel.png)](https://github.com/christiangella/craft-notes)
 [![Pixel-art of the application logo, "Wallet Watchdog".](wwd_icon_pixel.png)](https://github.com/christiangella/wallet-watchdog)
+![Icon of the application, "Reminder Nurse".](rn_badge.png)
 
 
 ## 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊
