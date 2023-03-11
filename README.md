@@ -4,8 +4,7 @@ Hello! My name is **Manong Chris** (they/he) and I'm a front-end web developer, 
 
 -	:potted_plant: **Learning**  React, Three.js, and Blender.
 -	:mushroom: **Portfolio** soon forthcoming!
-- :herb: **Working** on a small-scale idle game.
-- :memo: **Glance** at my [writing samples](https://gist.github.com/christiangella) about code.
+- :herb: **Glance** at my [writing samples](https://gist.github.com/christiangella) about code.
 - :flags: **Fun-fact**: I co-founded a Middle School!
 - :sparkles: **Connect** with me on [LinkedIn](https://www.linkedin.com/in/christian-gella-293539a5/) or by [email](mailto:christian.gella@gmail.com).
 
