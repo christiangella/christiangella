@@ -1,6 +1,6 @@
 ![A banner that has "Manong" scribbled in an animation. ](github_banner.gif)
 # 𝐀 𝐍𝐄𝐖 𝐆𝐈𝐓𝐇𝐔𝐁 𝐔𝐒𝐄𝐑 𝐀𝐏𝐏𝐑𝐎𝐀𝐂𝐇𝐄𝐒
-Hello! My name is **Manong Chris** (they/he) and I'm a front-end web developer, game modder, and digital illustrator! I bring a unique mix of skills to any project or team — everything in-between my background in Operations and Data Management to my training in anthropology and archivist scholar methodologies.
+Hello! My name is **Manong Chris** (they/he) and I'm a front-end web developer, game modder, and digital illustrator! I bring a unique mix of skills to any project or team — everything in-between my background in Operations and Data Management to my training in anthropology and archivist scholar methodologies. Committing to an hour or more of code every day! 
 
 -	:potted_plant: **Learning**  React, Three.js, and Blender.
 -	:mushroom: **Portfolio** soon forthcoming!
