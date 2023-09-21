@@ -8,7 +8,12 @@ Hello! My name is **Manong Chris** (they/he) and I'm a UI/UX designer, front-end
 - :flags: **Fun-fact**: I co-founded a Middle School!
 - :sparkles: **Connect** with me on [LinkedIn](https://www.linkedin.com/in/christian-gella-293539a5/) or by [email](mailto:christian.gella@gmail.com).
 
-## 𝐂𝐎𝐃𝐈𝐍𝐆 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
+## 𝐔𝐈/𝐔𝐗 𝐏𝐑𝐎𝐃𝐔𝐂𝐓𝐒
+
+![Figma prototypes of the application, "Craft Notes".](cnexportreview.png)
+
+
+## 𝐅𝐔𝐋𝐋 𝐒𝐓𝐀𝐂𝐊 𝐏𝐑𝐎𝐃𝐔𝐂𝐓𝐒
 
 [![A stamp from the application, "Craft Notes".](cn_icon_nonpixel.png)](https://github.com/christiangella/craft-notes)
 [![Pixel-art of the application logo, "Wallet Watchdog".](wwd_icon_pixel.png)](https://github.com/christiangella/wallet-watchdog)
